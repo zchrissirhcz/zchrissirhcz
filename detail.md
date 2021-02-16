@@ -1,4 +1,10 @@
-## My open source contributions
+## Selected Personal Projects
+
+- [cmake_examples](https://github.com/zchrissirhcz/cmake_examples): A practical, easy-to-copy project, covering many missing examples in other "cmake-examples" repos.
+- [smallcv](https://github.com/zchrissirhcz/smallcv): Re-implementation of OpenCV's imread/imwrite/imshow/draw rect/etc.
+- [imageset-viewer](https://github.com/zchrissirhcz/imageset-viewer): A GUI tool implemented in Python tkinter, visualizing ImageNet/VOC images with annotated boxes and names, supporting pick-and-save current image.
+
+## My Contribution List
 
 | id | repo | #PRs |
 | --- | ---------- | ---------- |
@@ -11,9 +17,10 @@
 | 6 | [vcpkg](https://github.com/microsoft/vcpkg) | 1 [opened PR](https://github.com/microsoft/vcpkg/pulls?q=is%3Apr+author%3Azchrissirhcz) |
 | 7 | [AdelaiDet](https://github.com/aim-uofa/AdelaiDet) | 1 [merged PR](https://github.com/aim-uofa/adelaidet/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) |
 | 8 | [mirrors-china](https://github.com/vra/mirrors-china) | 4 [merged PRs](https://github.com/vra/mirrors-china/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) |
-| 9 | [zsh-completions](https://github.com/zsh-users/zsh-completions) | 1 [merged PR](https://github.com/zsh-users/zsh-completions/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) |
-| 10 | [msnhnet](https://github.com/msnh2012/Msnhnet) | 1 [merged PR](https://github.com/msnh2012/Msnhnet/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) |
-| 11 | [carla](https://github.com/carla-simulator/carla) | 1 [merged PR](https://github.com/carla-simulator/carla/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) |
+| 9 | [nanodet](https://github.com/RangiLyu/nanodet/) | 1 [merged PR](https://github.com/RangiLyu/nanodet/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) |
+| 10 | [zsh-completions](https://github.com/zsh-users/zsh-completions) | 1 [merged PR](https://github.com/zsh-users/zsh-completions/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) |
+| 11 | [msnhnet](https://github.com/msnh2012/Msnhnet) | 1 [merged PR](https://github.com/msnh2012/Msnhnet/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) |
+| 12 | [carla](https://github.com/carla-simulator/carla) | 1 [merged PR](https://github.com/carla-simulator/carla/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) |
 
 
 ## Memory checking tools
