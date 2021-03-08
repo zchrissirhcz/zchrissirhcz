@@ -1,6 +1,6 @@
 👨‍💻 Software engineer for CV & DL.
 
-👏 Contributor of [ncnn](https://github.com/tencent/ncnn) (52 [PRs](https://github.com/tencent/ncnn/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged), rank [#1](https://github.com/Tencent/ncnn/graphs/contributors) except Nihui), [opencv](https://github.com/opencv/opencv) (4 [PRs](https://github.com/opencv/opencv/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) to be appeared in 3.4.14 / 4.5.2).
+👏 Contributor of [ncnn](https://github.com/tencent/ncnn) (53 [PRs](https://github.com/tencent/ncnn/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged), rank [#1](https://github.com/Tencent/ncnn/graphs/contributors) except Nihui), [opencv](https://github.com/opencv/opencv) (4 [PRs](https://github.com/opencv/opencv/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged) to be appeared in 3.4.14 / 4.5.2).
 
 🪀 Familar with cross-platform C/C++ development with CMake, created [cmake_examples](https://github.com/zchrissirhcz/cmake_examples).
 
