@@ -1,2 +1,2 @@
 - Software engineer for Computer Vision and Deep Learning.
-- Contributor of [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged), [ncnn](https://github.com/tencent/ncnn/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged), etc.
+- Junior Contributor of [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged), [ncnn](https://github.com/tencent/ncnn/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged), etc.
