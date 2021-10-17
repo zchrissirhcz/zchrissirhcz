@@ -1,2 +1,1 @@
-- SDE for CV & DL for mobile & edge devices
-- Contributor of [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged), [ncnn](https://github.com/tencent/ncnn/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged).
+SDE for CV & DL on mobile devices / Contributor of [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged), [ncnn](https://github.com/tencent/ncnn/pulls?q=is%3Apr+author%3Azchrissirhcz+is%3Amerged)
