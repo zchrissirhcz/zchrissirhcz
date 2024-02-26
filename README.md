@@ -8,30 +8,31 @@ I'm ChrisZZ, a software engineer for AI, especially doing CV for ADAS / Mobile P
 
 1. Collected practical examples on CMake, required by modern C++ projects:
 
-[![cmake_examples](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=https://github.com/zchrissirhcz/cmake_examples&theme=radical)](https://github.com/zchrissirhcz/cmake_examples)
+[![cmake_examples](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=cmake_examples&theme=radical)](https://github.com/zchrissirhcz/cmake_examples)
 
 2. A great list of ncnn-based AI open source projects:
 
-[![awesome-ncnn](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=https://github.com/zchrissirhcz/awesome-ncnn&theme=radical)](https://github.com/zchrissirhcz/awesome-ncnn)
+[![awesome-ncnn](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=awesome-ncnn&theme=radical)](https://github.com/zchrissirhcz/awesome-ncnn)
 
-3. An awesome CMake plugin for safer C/C++ programming:
+3. An awesome CMake plugin for **safer C/C++** programming:
 
-[![overlook](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=https://github.com/zchrissirhcz/overlook&theme=radical)](https://github.com/zchrissirhcz/overlook)
+[![overlook](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=overlook&theme=radical)](https://github.com/zchrissirhcz/overlook)
 
-4. A better beyond-compare alternative for image comparison GUI software, support various YUV formats:
+4. A better beyond-compare alternative for image comparison GUI software, support **various YUV formats**:
 
-[![KantuCompare](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=https://github.com/zchrissirhcz/KantuCompare&theme=radical)](https://github.com/zchrissirhcz/KantuCompare)
+[![KantuCompare](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=KantuCompare&theme=radical)](https://github.com/zchrissirhcz/KantuCompare)
 
-5. A cmake highlight VSCode extension fore more accurate keywords with 18243 downloads (in 2024-02-27):
-[![vscode-cmake-highlight](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=https://github.com/zchrissirhcz/vscode-cmake-highlight&theme=radical)](https://github.com/zchrissirhcz/vscode-cmake-highlight)
+5. A cmake highlight VSCode extension fore more accurate keywords with **18243 downloads** (in 2024-02-27):
+
+[![vscode-cmake-highlight](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=vscode-cmake-highlight&theme=radical)](https://github.com/zchrissirhcz/vscode-cmake-highlight)
 
 6. A tiny OpenCV-like library with lightweight Mat and imread()/imwrite()/imshow() implemented:
 
-[![smallcv](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=https://github.com/zchrissirhcz/smallcv&theme=radical)](https://github.com/zchrissirhcz/smallcv)
+[![smallcv](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=smallcv&theme=radical)](https://github.com/zchrissirhcz/smallcv)
 
 7. Implement NEON Intrinsics in C for better and more accurate understanding:
 
-[![neon_sim](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=https://github.com/zchrissirhcz/neon_sim&theme=radical)](https://github.com/zchrissirhcz/neon_sim)
+[![neon_sim](https://github-readme-stats.vercel.app/api/pin?username=zchrissirhcz&repo=neon_sim&theme=radical)](https://github.com/zchrissirhcz/neon_sim)
 
 ### Open Source Contributions
 
